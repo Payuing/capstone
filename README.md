@@ -1,2 +1,3 @@
-### capstone
-> School project 491
+### Capstone
+
+> Programming I have done for ELEC 491
